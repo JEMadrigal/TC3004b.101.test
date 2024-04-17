@@ -1,0 +1,17 @@
+{
+  "name": "tc3004b.101.test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "demo2.spec.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^123.0.2",
+    "mocha": "^10.4.0",
+    "selenium-webdriver": "^4.19.0"
+  }
+}
